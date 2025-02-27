@@ -8,4 +8,8 @@ import { Component } from '@angular/core';
 })
 export class FirstComponentComponent {
 
+  name: String = 'Lucas';
+  age: Number = 20;
+  job = "Desenvolvedor De Software";
+
 }
