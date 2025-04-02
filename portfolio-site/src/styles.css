@@ -8,5 +8,7 @@ body {
     margin: 0; 
     font-family: Roboto, "Helvetica Neue", sans-serif;
     background: linear-gradient(45deg, #1f1f1f, #272727, #646464, #919090);
+    background-size: cover;
+    background-attachment: fixed
 }
 
